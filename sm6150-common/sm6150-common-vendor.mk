@@ -196,6 +196,7 @@ PRODUCT_PACKAGES += \
     libmmrtpencoder_proprietary \
     libqcodec2 \
     libqtigef \
+    librice \
     libsmwrapper \
     libswvdec \
     libvppclient \
