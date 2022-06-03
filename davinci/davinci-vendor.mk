@@ -160,6 +160,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/davinci/proprietary/vendor/lib64/camera/fdconfigvideolite.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigvideolite.bin
 
 PRODUCT_PACKAGES += \
+    libcameraservice_micam \
     libsn100u_fw \
     libSuperSensor_skel \
     libVDHexagonSuperPhoto_skel \
@@ -298,6 +299,7 @@ PRODUCT_PACKAGES += \
     mi.motor.daemon \
     sensors.ssc \
     vendor.qti.hardware.camera.device@3.5 \
+    vendor.qti.hardware.camera.device@3.5_system_ext \
     cnss-daemon \
     vendor.xiaomi.hardware.motor@1.0-service \
     mi_thermald \
