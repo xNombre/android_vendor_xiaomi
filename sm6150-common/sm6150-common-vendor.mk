@@ -149,7 +149,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.3 \
     btaudio_offload_if \
     audio.bluetooth_qti.default \
-    sound_trigger.primary.sm6150 \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     vendor.qti.hardware.bluetooth_audio@2.1-impl \
     libAlacSwDec \
